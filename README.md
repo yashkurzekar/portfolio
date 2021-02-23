@@ -1,14 +1,8 @@
-# athiyadeviyani.github.io
+# yashkurzekar.github.io/portfolio
+
 Deployed on netlify, hosted on GitHub pages.
-<p>Designed from scratch by yours truly.
 
-Links
-<br>https://www.athiyadeviyani.com/ 
-<br>https://tia.codes/ 
-<br>https://athiyadeviyani.github.io/
-<br>https://tia-website.glitch.me/ (glitch link in case anyone wants to remix it)
+## Links
 
-Older version
-<br>https://athiyadee.glitch.me/ (Terminated 9 December 2018)
-<br>http://tia-website-2.glitch.me/ (Terminated 1 July 2019)
+https://yashkurzekar.github.io/portfolio
 
